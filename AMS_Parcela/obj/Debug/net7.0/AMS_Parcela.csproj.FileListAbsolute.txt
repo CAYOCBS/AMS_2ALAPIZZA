@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\bin\Debug\net7.0\AMS_Parcela.exe
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\bin\Debug\net7.0\AMS_Parcela.deps.json
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\bin\Debug\net7.0\AMS_Parcela.runtimeconfig.json
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\bin\Debug\net7.0\AMS_Parcela.dll
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\bin\Debug\net7.0\AMS_Parcela.pdb
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\obj\Debug\net7.0\AMS_Parcela.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\obj\Debug\net7.0\AMS_Parcela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\obj\Debug\net7.0\AMS_Parcela.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\obj\Debug\net7.0\AMS_Parcela.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\obj\Debug\net7.0\AMS_Parcela.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\obj\Debug\net7.0\AMS_Parcela.dll
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\obj\Debug\net7.0\refint\AMS_Parcela.dll
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\obj\Debug\net7.0\AMS_Parcela.pdb
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\obj\Debug\net7.0\AMS_Parcela.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\Exercicios\AMS_Parcela\obj\Debug\net7.0\ref\AMS_Parcela.dll

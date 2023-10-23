@@ -1,0 +1,15 @@
+@model ProductModel
+@{
+    ViewData["Title"] = "Product";
+}
+<h1>@ViewData["Title"]</h1>
+<h2>Cadastrar Produto</h2>
+<form method="POST">
+    Id <input type="text" name="txt_id"><br>
+    Description <input type="text" name="txt_description"><br>
+    IsActive <input type="text" name="txt_isActive"><br>
+    ImageUrl <input type="text" name="txt_imgUrl"><br>
+    Value <input type="text" name="txt_value"><br>
+
+    <input type="submit" value="Cadastrar" ><br>
+</form>

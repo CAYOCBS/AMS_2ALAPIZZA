@@ -1,0 +1,12 @@
+@model CategoryModel
+@{
+    ViewData["Title"] = "Category";
+}
+<h1>@ViewData["Title"]</h1>
+<h2>Cadastrar Categoria</h2>
+<form method="POST">
+    Id <input type="text" name="txt_id"><br>
+    Name <input type="text" name="txt_name"><br>
+    IsActive <input type="text" name="txt_isActive"><br>
+    <input type="submit" value="Cadastrar"><br>
+</form>
